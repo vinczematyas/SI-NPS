@@ -1,0 +1,122 @@
+[09/04/2023 16:19:57]   Configuration:
+[09/04/2023 16:19:57]   general args
+[09/04/2023 16:19:57]   {'batch_size': 128,
+ 'dataset': 'hotel',
+ 'decay_min_lr': 0.0005,
+ 'log': True,
+ 'lr': 1.0,
+ 'num_epochs': 50,
+ 'save_model': True,
+ 'seed': 1,
+ 'step_size': 45,
+ 'wandb': False}
+[09/04/2023 16:19:57]   model args
+[09/04/2023 16:19:57]   {'contxt_attn_dk': 32,
+ 'contxt_k': 1,
+ 'num_rules': 4,
+ 'rule_attn_dk': 16,
+ 'slot_dim': 2,
+ 'tau': 1.0,
+ 'temporal_input_dim': 8}
+[09/04/2023 16:20:40]   saving new best model at epoch 1 as new best val_ade reached - 1.1939
+	                 val ADE 1.1939
+	                 val FDE 2.1387
+	                 test ADE 1.2165
+	                 test FDE 2.2083
+
+[09/04/2023 16:21:14]   saving new best model at epoch 2 as new best val_ade reached - 1.1836
+	                 val ADE 1.1836
+	                 val FDE 2.1645
+	                 test ADE 1.2048
+	                 test FDE 2.1929
+
+[09/04/2023 16:21:47]   saving new best model at epoch 3 as new best val_ade reached - 1.1621
+	                 val ADE 1.1621
+	                 val FDE 2.1281
+	                 test ADE 1.1873
+	                 test FDE 2.1639
+
+[09/04/2023 16:22:24]   saving new best model at epoch 4 as new best val_ade reached - 1.1458
+	                 val ADE 1.1458
+	                 val FDE 2.099
+	                 test ADE 1.1214
+	                 test FDE 2.0503
+
+[09/04/2023 16:22:58]   saving new best model at epoch 5 as new best val_ade reached - 0.7301
+	                 val ADE 0.7301
+	                 val FDE 1.327
+	                 test ADE 0.9955
+	                 test FDE 1.8095
+
+[09/04/2023 16:23:34]   saving new best model at epoch 6 as new best val_ade reached - 0.3992
+	                 val ADE 0.3992
+	                 val FDE 0.7272
+	                 test ADE 0.5337
+	                 test FDE 0.9288
+
+[09/04/2023 16:24:10]   saving new best model at epoch 7 as new best val_ade reached - 0.3843
+	                 val ADE 0.3843
+	                 val FDE 0.7019
+	                 test ADE 0.3914
+	                 test FDE 0.6716
+
+[09/04/2023 16:24:51]   saving new best model at epoch 8 as new best val_ade reached - 0.3615
+	                 val ADE 0.3615
+	                 val FDE 0.6632
+	                 test ADE 0.3237
+	                 test FDE 0.5624
+
+[09/04/2023 16:25:33]   saving new best model at epoch 9 as new best val_ade reached - 0.3484
+	                 val ADE 0.3484
+	                 val FDE 0.6385
+	                 test ADE 0.2584
+	                 test FDE 0.4361
+
+[09/04/2023 16:26:10]   saving new best model at epoch 10 as new best val_ade reached - 0.3469
+	                 val ADE 0.3469
+	                 val FDE 0.668
+	                 test ADE 0.2209
+	                 test FDE 0.3817
+
+[09/04/2023 16:26:49]   saving new best model at epoch 11 as new best val_ade reached - 0.3181
+	                 val ADE 0.3181
+	                 val FDE 0.606
+	                 test ADE 0.2135
+	                 test FDE 0.3608
+
+[09/04/2023 16:27:52]   saving new best model at epoch 13 as new best val_ade reached - 0.2886
+	                 val ADE 0.2886
+	                 val FDE 0.5285
+	                 test ADE 0.1947
+	                 test FDE 0.3262
+
+[09/04/2023 16:30:18]   saving new best model at epoch 17 as new best val_ade reached - 0.2833
+	                 val ADE 0.2833
+	                 val FDE 0.5321
+	                 test ADE 0.173
+	                 test FDE 0.2947
+
+[09/04/2023 16:33:20]   saving new best model at epoch 22 as new best val_ade reached - 0.2811
+	                 val ADE 0.2811
+	                 val FDE 0.5438
+	                 test ADE 0.1658
+	                 test FDE 0.2778
+
+[09/04/2023 16:35:50]   saving new best model at epoch 26 as new best val_ade reached - 0.2786
+	                 val ADE 0.2786
+	                 val FDE 0.5468
+	                 test ADE 0.1624
+	                 test FDE 0.2784
+
+[09/04/2023 16:37:36]   saving new best model at epoch 29 as new best val_ade reached - 0.2732
+	                 val ADE 0.2732
+	                 val FDE 0.5351
+	                 test ADE 0.165
+	                 test FDE 0.2769
+
+[09/04/2023 16:38:21]   saving new best model at epoch 30 as new best val_ade reached - 0.2715
+	                 val ADE 0.2715
+	                 val FDE 0.5344
+	                 test ADE 0.161
+	                 test FDE 0.2754
+
